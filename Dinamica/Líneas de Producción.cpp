@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 #define LINEAS 2
 #define ESTACIONES 6
 
